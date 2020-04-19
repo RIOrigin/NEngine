@@ -1,4 +1,4 @@
-package artdev.util;
+package artdev.nengine.util;
 
 import static java.lang.Math.abs;
 

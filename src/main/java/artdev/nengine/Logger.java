@@ -1,6 +1,6 @@
-package artdev;
+package artdev.nengine;
 
-import artdev.util.ExceptionUtil;
+import artdev.nengine.util.ExceptionUtil;
 
 
 public class Logger {

@@ -1,4 +1,4 @@
-package artdev;
+package artdev.nengine;
 
 import org.bukkit.command.CommandSender;
 

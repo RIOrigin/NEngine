@@ -1,4 +1,4 @@
-package artdev.util;
+package artdev.nengine.util;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;

@@ -1,6 +1,7 @@
-main: artdev.App
+main: artdev.nengine.App
 name: NEngine
 version: 1.0.0
+api-version: 1.13
 commands:
   Nanjo:
     description: NEngine的测试命令
